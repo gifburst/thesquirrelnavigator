@@ -6,7 +6,7 @@
 
 You must downloading repositore of Squirrel Navigator:
 
-> git clone <https://github.com/squirrelcom/squirrelnavigator.git>
+> git clone <https://github.com/squirrelcom/thesquirrelnavigator.git>
 
 Then you must type the command:
 
